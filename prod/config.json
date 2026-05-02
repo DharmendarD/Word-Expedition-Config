@@ -1,0 +1,15 @@
+{
+  "featureToggles": {
+    "adsEnabled": true,
+    "dynamicBackgrounds": true,
+    "multiLanguageLevels": true
+  },
+  "scoreConfig": {
+    "KnowWordScore": 5,
+    "RewardAdScore": 10,
+    "LevelScore": 10,
+    "HintScore": 50,
+    "HintMajorScore": 100,
+    "SomeToggle": true
+  }
+}
