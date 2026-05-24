@@ -5,11 +5,23 @@
     "multiLanguageLevels": false
   },
   "scoreConfig": {
-    "KnowWordScore": 5,
-    "RewardAdScore": 10,
-    "LevelScore": 10,
-    "HintScore": 50,
-    "HintMajorScore": 100,
-    "SomeToggle": true
-  }
+    "knowWordScore": 5,
+    "rewardAdScore": 10,
+    "levelScore": 10,
+    "hintScore": 50,
+    "hintMajorScore": 100
+  },
+  "playMode": "cross",
+  "ambientEffect": "sparkle",
+  "ambientEffectsByBackground": {
+    "1": "sand",
+    "2": "sparkle",
+    "3": "fireflies",
+    "4": "sand",
+    "5": "rain",
+    "6": "snow"
+  },
+  "backgroundImageFetchCount": 1,
+  "backgroundCacheMaxAgeDays": 21,
+  "backgroundCacheMaxFiles": 60
 }
