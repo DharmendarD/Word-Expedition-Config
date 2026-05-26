@@ -2,11 +2,11 @@
   "featureToggles": {
     "adsEnabled": true,
     "dynamicBackgrounds": true,
-    "multiLanguageLevels": false
+    "multiLanguageLevels": true
   },
   "scoreConfig": {
     "knowWordScore": 5,
-    "rewardAdScore": 10,
+    "rewardAdScore": 25,
     "levelScore": 10,
     "hintScore": 50,
     "hintMajorScore": 100
