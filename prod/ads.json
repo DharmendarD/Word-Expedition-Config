@@ -5,7 +5,7 @@
   "interstitialIos": "ca-app-pub-3940256099942544/4411468910",
   "rewardedAndroid": "ca-app-pub-7544498353303366/2524581390",
   "rewardedIos": "ca-app-pub-3940256099942544/1712485313",
-  "interstitialCooldownMinutes": 4,
-  "interstitialFrequencyLevels": 3,
+  "interstitialCooldownMinutes": 10,
+  "interstitialFrequencyLevels": 5,
   "rewardedCooldownMinutes": 0
 }
