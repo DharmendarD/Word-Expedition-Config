@@ -13,12 +13,12 @@
     {
       "code": "es",
       "name": "Spanish",
-      "supportedModes": [0]
+      "supportedModes": [0, 1]
     },
     {
       "code": "ta",
       "name": "தமிழ்",
-      "supportedModes": [0]
+      "supportedModes": [0, 1]
     }
   ]
 }
