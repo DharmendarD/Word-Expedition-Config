@@ -11,12 +11,6 @@
       "name": "English",
       "supportedModes": [0, 1],
       "fetchRemoteBackgrounds": true
-    },
-    {
-      "code": "es",
-      "name": "Spanish",
-      "supportedModes": [0, 1],
-      "fetchRemoteBackgrounds": false
     }
   ]
 }
