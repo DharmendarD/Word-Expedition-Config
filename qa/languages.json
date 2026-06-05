@@ -1,0 +1,16 @@
+{
+  "default": {
+    "code": "en",
+    "name": "English",
+    "supportedModes": [0, 1],
+    "fetchRemoteBackgrounds": true
+  },
+  "supported": [
+    {
+      "code": "en",
+      "name": "English",
+      "supportedModes": [0, 1],
+      "fetchRemoteBackgrounds": true
+    }
+  ]
+}
